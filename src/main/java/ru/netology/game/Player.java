@@ -1,7 +1,7 @@
 package ru.netology.game;
 
 public class Player {
-    private static int id;
+    private int id;
     private String name;
     private int strength;
 
